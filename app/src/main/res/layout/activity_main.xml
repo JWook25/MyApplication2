@@ -15,6 +15,13 @@
         android:layout_gravity="center_horizontal"
         android:src="@drawable/dice_1"/>
 
+    <ImageView
+        android:id="@+id/dice_image2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:src="@drawable/dice_1"/>
+
     <Button
         android:id="@+id/roll_button"
         android:layout_width="wrap_content"
